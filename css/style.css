@@ -1,0 +1,22 @@
+li{
+    padding: 20px;
+}
+#img-div{
+    margin: auto;
+    width: 50%;
+}
+main{
+    background-color: #EEEEEE;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+b{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 50%;
+    display: block;
+    margin: auto;
+}
